@@ -12,6 +12,6 @@ The objective of this repository is to help the developers to improve communicat
 - Writing emails
 - Daily standups
 
-### Contribution:
+### Contribution
 
 Feel free to add more content or fix existing using standard fork-pr model.

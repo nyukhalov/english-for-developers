@@ -19,7 +19,7 @@
 | -        | Minus / Dash                       |
 | +        | Plus sign                          |
 | =        | Equals sign                        |
-| |        | Pipe / Vertical bar                |
+| &#124;   | Pipe / Vertical bar                |
 | \        | Backslash                          |
 | /        | Slash / Forward slash              |
 | {        | Opening brace                      |

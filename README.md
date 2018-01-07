@@ -7,7 +7,7 @@ The objective of this repository is to help the developers to improve communicat
 - [Names for characters in a keyboard](keyboard-signs.md)
 - Computer science terms
 - Giving polite comments on code review
-- Writing clear comments on git commits
+- Writing clear comments of git commits
 - Debates
 - Writing emails
 - Daily standups
